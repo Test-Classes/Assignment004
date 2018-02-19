@@ -2,4 +2,4 @@
 
 Please do this calculation:
 
-5+5 = ?
+5+5 = 10
